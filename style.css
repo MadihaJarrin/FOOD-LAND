@@ -1,16 +1,27 @@
+body{
+  
+font-family: 'Poppins', sans-serif;
+}
 h1{
     font-size: 50px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+   
     color: rgb(112, 109, 109);
 }
 h2{
     font-size: 35px;
     color: rgb(133, 129, 129);
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h3{
+    font-size: 25px;
+}
+.distance{
+    margin-bottom: 8%;
 }
 #first-p{
     color: gray;
     font-size: 20px;
+    margin-bottom: 10%;
 }
 span{
     color: orange;
@@ -22,6 +33,7 @@ span{
     background-image: url(images/Frame\ 59.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
+    padding-top: 5%;
 }
 .half-width{
     width: 50%;
@@ -47,6 +59,7 @@ span{
 }
 #second-p{
     font-size: 20px;
+    margin-bottom: 10%;
 }
 .recipe{
     text-align: center;
@@ -54,13 +67,53 @@ span{
 .recipe p{
     font-size: small;
 }
+.recipe-title{
+    box-shadow: 10px 10px 30px rgb(153, 148, 148);
+    width: 50%;
+    padding: 6%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+    border-radius: 20px;
+    text-align:initial;
+   
+}
+.text{
+
+}
+#reci-img1{
+    background-image: url(images/Project\ Cover5.png);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-position: top;
+    border-radius: 10px;
+   
+    width: 50%;
+    
+    
+
+}
+#reci-img2{
+    background-image: url(images/Project\ Cover5.png);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-position: top;
+
+}
+#reci-img3{
+    background-image: url(images/Project\ Cover5.png);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-position: top;
+
+}
 
 footer{
     background-color: rgb(1, 18, 73);
     color:white;
     text-align: center;
     font-size: 15px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
     padding: 3%;
    
    
