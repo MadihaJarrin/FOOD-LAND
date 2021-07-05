@@ -1,0 +1,31 @@
+h1{
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(126, 123, 123);
+}
+#first-p{
+    color: gray;
+    font-size: 20px;
+}
+span{
+    color: orange;
+}
+.flex-cont{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(tomato , hotpink);
+    border-radius: 30px;
+    padding:15px 30px;
+    box-shadow:2px 2px 20px 2px pink;
+    margin: 100px 0px 0px 0px;
+}
