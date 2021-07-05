@@ -1,7 +1,12 @@
 h1{
     font-size: 50px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(126, 123, 123);
+    color: rgb(112, 109, 109);
+}
+h2{
+    font-size: 35px;
+    color: rgb(133, 129, 129);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 #first-p{
     color: gray;
@@ -13,12 +18,19 @@ span{
 .flex-cont{
     display: flex;
 }
+.back-img{
+    background-image: url(images/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
 .half-width{
     width: 50%;
     padding-left: 5%;
+    margin-top: 10%;
 }
 .half-width img{
-    width: 70%;
+    width: 90%;
+    
 }
 .link-button{
     text-decoration: none;
@@ -28,4 +40,28 @@ span{
     padding:15px 30px;
     box-shadow:2px 2px 20px 2px pink;
     margin: 100px 0px 0px 0px;
+}
+#about-img{
+    width: 50%;
+
+}
+#second-p{
+    font-size: 20px;
+}
+.recipe{
+    text-align: center;
+}
+.recipe p{
+    font-size: small;
+}
+
+footer{
+    background-color: rgb(1, 18, 73);
+    color:white;
+    text-align: center;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 3%;
+   
+   
 }
