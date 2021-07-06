@@ -96,12 +96,11 @@ span{
 }
 .off-h1{
     color: rgb(243, 72, 72) ;
-    margin-left: 2%;
-   
+    margin-left: 2%; 
 }
 #you-like{
     box-shadow: 5px 5px 20px rgb(236, 104, 104);
-    padding: 1%;
+    padding:1%;
     margin-top: 4%;
     margin-bottom: 10%;
     border-radius: 20px;  
