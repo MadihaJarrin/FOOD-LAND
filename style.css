@@ -13,7 +13,7 @@ h2{
 h3{
     font-size: 25px;
 }
-.distance{
+#distance{
     margin-bottom: 8%;
 }
 #first-p{
@@ -31,7 +31,7 @@ span{
     margin-left: 5%;
     margin-right: 5%;
 }
-.back-img{
+#back-img{
     background-image: url(images/Frame\ 59.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
@@ -99,7 +99,7 @@ span{
     margin-left: 2%;
    
 }
-.you-like{
+#you-like{
     box-shadow: 5px 5px 20px rgb(236, 104, 104);
     padding: 1%;
     margin-top: 4%;
@@ -114,13 +114,11 @@ input{
     margin: 1px 5px;
     border-radius: 10px;
 }
-
-
 footer{
     background-color: rgb(1, 18, 73);
     color:white;
     text-align: center;
     font-size: 15px; 
-    padding-bottom:5%;
+    padding-bottom:3%;
     padding-top: 1%;    
 }
